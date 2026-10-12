@@ -135,6 +135,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3280-convert-date-to-binary) |
@@ -371,6 +372,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
 |  |
 | ------- |
