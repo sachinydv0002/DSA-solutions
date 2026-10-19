@@ -62,6 +62,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [1002-find-common-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -201,6 +202,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0746-min-cost-climbing-stairs](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
@@ -470,4 +472,8 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
