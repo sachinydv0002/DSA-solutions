@@ -98,6 +98,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
@@ -124,6 +125,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0002-add-two-numbers](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0326-power-of-three) |
@@ -231,6 +233,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0136-single-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0217-contains-duplicate) |
