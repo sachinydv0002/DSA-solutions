@@ -18,6 +18,8 @@ class Solution(object):
                     result = a * b
                 else: 
                     result = abs(a) // abs(b)
+                    if (a<0) != (b<0):
+                        result = -result
 
                 stack.append(result)
         
