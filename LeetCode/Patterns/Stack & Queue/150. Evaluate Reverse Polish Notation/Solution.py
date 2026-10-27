@@ -18,7 +18,6 @@ class Solution(object):
                     result = a * b
                 else: 
                     result = abs(a) // abs(b)
-                    i
 
                 stack.append(result)
         
