@@ -52,6 +52,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0014-longest-common-prefix](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0290-word-pattern) |
@@ -191,6 +192,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
@@ -396,6 +398,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
@@ -433,6 +436,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search Tree
 |  |
