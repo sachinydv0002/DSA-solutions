@@ -60,6 +60,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0409-longest-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0551-student-attendance-record-i) |
+| [0844-backspace-string-compare](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -105,6 +106,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0232-implement-queue-using-stacks](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -321,6 +323,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0905-sort-array-by-parity) |
 ## Prefix Sum
 |  |
@@ -391,6 +394,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
