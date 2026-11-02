@@ -229,6 +229,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0039-combination-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -302,6 +303,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0190-reverse-bits) |
@@ -407,6 +409,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0022-generate-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
