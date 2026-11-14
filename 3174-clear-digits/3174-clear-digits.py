@@ -1,9 +1,5 @@
 class Solution(object):
     def clearDigits(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
         ans = []
         for ch in s:
             if ch.isdigit():
