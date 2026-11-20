@@ -107,6 +107,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -359,6 +360,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
+| [0897-increasing-order-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -428,6 +430,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
+| [0897-increasing-order-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +442,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
+| [0897-increasing-order-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -454,6 +458,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
